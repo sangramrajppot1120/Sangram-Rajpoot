@@ -116,6 +116,14 @@
 </p>
 
 
+### 📊 GitHub Stats:
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramrajppot1120&layout=compact&theme=dark&hide_border=true)](https://github.com/sangramrajppot1120)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramrajppot1120&show_icons=true&theme=dark&hide_border=true)](https://github.com/sangramrajppot1120)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=true&fire=DD2727)](https://github.com/sangramrajppot1120)
 
 
 
