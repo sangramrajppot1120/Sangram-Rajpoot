@@ -2,8 +2,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0aa0a0&height=150&section=header)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=%3C+Welco+%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3CWe1come+!+%2F+%3E;%3CHello+World!+I'm+Sangram%2F%3E;%3C+I'm+from+India%2F+%3E" alt="Typing SVG" />
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sangramrajpoot&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="profile views" />
