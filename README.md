@@ -79,6 +79,40 @@
   </a>
 
 </p>
+---
+### 🛠️ Additionals Tools:
+
+<p align="left">
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+
+  <a href="https://spring.io/tools">
+    <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  </a>
+
+  <a href="https://git-scm.com/downloads">
+    <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://netbeans.apache.org/">
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  </a>
+
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+
+</p>
 
 
 ### 📈 GitHub Stats
