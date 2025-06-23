@@ -1,12 +1,19 @@
 # Sangram-Rajpoot
-![Header](https://your-image-link/banner.gif)
-
-<h1 align="center">Hi 👋, I'm Sangram Rajpoot</h1>
-<h3 align="center">An Electronics & Communication Engineering Student | Full Stack Java Developer</h3>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0aa0a0&height=150&section=header)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ECE+Student+%7C+Java+Developer;Spring+Boot+%7C+Full+Stack+Learner;Frontend+%7C+Backend+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=%3C+Welco+%3E" alt="Typing SVG" />
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sangramrajpoot&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="profile views" />
+</p>
+
+### A Software Developer from Bhopal, India
+
+- 🌱 I’m currently learning **Java, Spring Boot, Spring Framework, Clean Code, Design Patterns**
+- 💬 Ask me about **Spring Framework**
+
 
 ---
 
