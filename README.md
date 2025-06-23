@@ -21,7 +21,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sangramrajpoot" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/sangramrajpoot](https://www.linkedin.com/in/sangram-rajpoot-b9b9b9264/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sangramrajpoot.ec20@oistbpl.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sangramrajpoot"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
