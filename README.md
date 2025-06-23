@@ -116,15 +116,32 @@
 </p>
 
 
-### 📊 GitHub Stats:
----
+<details>
+<summary>📊 <strong>Most Used Languages</strong></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramrajppot1120&layout=compact&theme=dark&hide_border=true)](https://github.com/sangramrajppot1120)
+<br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramrajppot1120&show_icons=true&theme=dark&hide_border=true)](https://github.com/sangramrajppot1120)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramrajppot1120&layout=compact&theme=dark&hide_border=false&border_radius=10)](https://github.com/sangramrajppot1120)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=true&fire=DD2727)](https://github.com/sangramrajppot1120)
+</details>
 
+<details>
+<summary>📈 <strong>GitHub Profile Stats</strong></summary>
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramrajppot1120&show_icons=true&theme=dark&hide_border=false&border_radius=10)](https://github.com/sangramrajppot1120)
+
+</details>
+
+<details>
+<summary>🔥 <strong>Streak Stats</strong></summary>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FF7600)](https://github.com/sangramrajppot1120)
+
+</details>
 
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
