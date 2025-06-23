@@ -79,7 +79,8 @@
   </a>
 
 </p>
-===
+---
+
 ### 🛠️ Additionals Tools:
 
 <p align="left">
@@ -115,28 +116,7 @@
 </p>
 
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangramrajpoot&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangramrajpoot&theme=radical&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangramrajpoot&layout=compact&theme=radical" />
-</p>
 
----
-
-### 🔥 Featured Projects
-
-<a href="https://github.com/sangramrajpoot/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangramrajpoot&repo=portfolio-website&theme=radical" />
-</a>
-
-<a href="https://github.com/sangramrajpoot/gym-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangramrajpoot&repo=gym-website&theme=radical" />
-</a>
-
----
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
