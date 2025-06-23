@@ -139,17 +139,19 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FF7600)](https://github.com/sangramrajppot1120)
-
-</details>
 <details>
 <summary>🔥 <strong>Streak Stats</strong></summary>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FFA500&currStreakLabel=Current%20Streak)](https://github.com/sangramrajppot1120)
+<!-- GitHub Streak Stats Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FFA500&currStreakLabel=Current%20Streak&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
 
 </details>
+
+
 
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
