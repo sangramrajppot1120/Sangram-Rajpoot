@@ -134,22 +134,18 @@
 
 </details>
 
-<details>
-<summary>🔥 <strong>Streak Stats</strong></summary>
-
-<br/>
 
 <details>
 <summary>🔥 <strong>Streak Stats</strong></summary>
 
 <br/>
 
-<!-- GitHub Streak Stats Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FFA500&currStreakLabel=Current%20Streak&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FFA500" alt="GitHub Streak Stats" />
 </p>
 
 </details>
+
 
 
 
