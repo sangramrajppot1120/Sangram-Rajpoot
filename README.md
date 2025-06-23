@@ -151,3 +151,6 @@
 
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
+
+<img src="https://raw.githubusercontent.com/sangramrajppot1120/sangramrajppot1120/main/assets/wave.svg" alt="wave footer" style="width:100%;" />
+
